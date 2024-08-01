@@ -13,7 +13,7 @@ def run(log):
         "keys/eze key secret.asc",
         "keys/sintys pub.asc",
     ]
-    passphrases = ["Eze2kftw!", "Eze2kftw!", "Eze2kftw!", "Eze2kftw!"]
+    passphrases = ["FALSO!", "FALSO!", "FALSO!", "FALSO!"]
 
     # Inicializa una instancia de GPG
     try:
